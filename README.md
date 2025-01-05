@@ -1,5 +1,13 @@
-![bmi3](https://github.com/user-attachments/assets/7b475000-cbba-4cb5-be2d-9a94c40f5412)
-<img width="221" alt="bmi" src="https://github.com/user-attachments/assets/4948380f-01ec-482f-a492-bf28edbe69c7" />
-![bmi2](https://github.com/user-attachments/assets/8034a3cf-cbe4-4bc7-b9df-48b312309a73)
+<img width="216" alt="bmi2" src="https://github.com/user-attachments/assets/a0f2f9f1-e28e-440f-bcf1-13bf8ba3cec7" />
+<img width="221" alt="bmi" src="https://github.com/user-attachments/assets/71879d15-b252-4a26-a9d1-a8458845301f" />
+<img width="219" alt="bmi3" src="https://github.com/user-attachments/assets/62c21a54-d9b8-42bf-a99a-8ab7e015f5f3" />
+
+
+
+
+
+
+
+
 
 
